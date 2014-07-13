@@ -1969,6 +1969,20 @@
 			]
 		},
 		{
+			"details": "https://github.com/mix86/SublimeJira",
+			"labels": [
+				"atlassian jira",
+				"jira integration",
+				"jira"
+			],
+			"releases": [
+				{
+					"sublime_text": ">=3000",
+					"details": "https://github.com/mix86/SublimeJira/tags"
+				}
+			]
+		},		
+		{
 			"name": "Sublime JS",
 			"details": "https://github.com/akira-cn/SublimeJS",
 			"releases": [
